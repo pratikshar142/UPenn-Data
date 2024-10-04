@@ -1,0 +1,1 @@
+The crowdfunding dataset provides insights related to various campaigns, launch dates, funding goals, and backer counts. The analysis can be helpful to understand the success rates for campaigns based on categories and launch dates. 
